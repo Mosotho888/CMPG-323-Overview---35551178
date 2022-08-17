@@ -13,3 +13,6 @@ will be including 5 projects
 
 ## .gitignore file
 -> the .gitignore file gonna list the names of files that can be found in work-trees when working in the project, but that should not be committed to the project (e.g sensitive information about the user) 
+
+## Storage of credentials and sensitive information
+-> They will be encypted and stored in a gitignore file which will not be commit to githib to avoid licks 
