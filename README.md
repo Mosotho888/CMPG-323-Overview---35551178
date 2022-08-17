@@ -11,3 +11,5 @@ will be including 5 projects
 ## Branching Strategy
 -> GitHub Flow Strategy. It focuses on Agile principles and so it is a fast and streamlined branching strategy with short production cycles and frequent releases, also allows for fast feedback loops so that one can quickly identify issues and resolve them.
 
+## .gitignore file
+-> the .gitignore file gonna list the names of files that can be found in work-trees when working in the project, but that should not be committed to the project (e.g sensitive information about the user) 
