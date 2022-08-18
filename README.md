@@ -1,5 +1,5 @@
 # CMPG-323-Overview---35551178
-will be including 5 projects
+Will be consisting of all the information that is needed to do project 1 to 5
 
 ## Repositories
 -> Repository for Agile and Scrum implentation project 
