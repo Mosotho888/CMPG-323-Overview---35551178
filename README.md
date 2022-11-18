@@ -35,12 +35,12 @@ graph TB;
       TabularView-->PopulateTabularView;
       TabularView-->LinkedPullRequest;
       TabularView-->Repository;
-      Repository-->Repositories;
       Milestones-->PopulateTabularView;
       Labels-->PopulateTabularView;
       StatusView-->GroupedByStatus;
       SprintView-->GroupedBySprint;
       LinkedAssessmentView-->GroupedByLinkedAssessment;
+      Repository-->Repositories;
 ```
 
 ## Branching Strategy
