@@ -26,6 +26,7 @@ graph TB;
       Projects-->SprintView;
       Projects-->LinkedAssessmentView;
       Projects-->DifficultyView;
+      TabularView-->PopulateTabularView;
       TabularView-->Milestones;
       TabularView-->Labels;
       TabularView-->LinkedPullRequest;
