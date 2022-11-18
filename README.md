@@ -16,6 +16,9 @@ graph TB;
       Semester-->Project3;
       Semester-->Project4;
       Semester-->Project5;
+      Project1-->Code;
+      Project1-->Issues;
+      Project1-->Projects;
 ```
 
 ## Branching Strategy
