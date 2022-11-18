@@ -21,11 +21,11 @@ graph TB;
       Project1-->Projects;
       Issues-->Labels;
       Issues-->Milestones;
-      Projects-->Tabular View;
-      Projects-->Status View;
-      Projects-->Sprint View;
-      Projects-->Linked Assessment View;
-      Projects-->Difficulty View;
+      Projects-->TabularView;
+      Projects-->StatusView;
+      Projects-->SprintView;
+      Projects-->LinkedAssessmentView;
+      Projects-->DifficultyView;
 ```
 
 ## Branching Strategy
