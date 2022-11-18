@@ -8,6 +8,17 @@ Will be consisting of all the information that is needed to do project 1 to 5
 -> Repository for Testing and RPA project: CMPG-323-Project-4--35551178 \
 -> Repository for Reporting and Monitoring project: CMPG-323-Project-5--35551178
 
+## Diagram explaining how the project will be broken down
+```mermaid
+graph TB;
+      Semester-->POE;
+      POE-->Project1;
+      POE-->Project2;
+      POE-->Project3;
+      POE-->Project4;
+      POE-->Project5;
+```
+
 ## Branching Strategy
 -> GitHub Flow Strategy. It focuses on Agile principles and so it is a fast and streamlined branching strategy with short production cycles and frequent releases, also allows for fast feedback loops so that one can quickly identify issues and resolve them.
 
