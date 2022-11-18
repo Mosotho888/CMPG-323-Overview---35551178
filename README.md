@@ -26,6 +26,13 @@ graph TB;
       Projects-->SprintView;
       Projects-->LinkedAssessmentView;
       Projects-->DifficultyView;
+      TabularView-->Milestones;
+      TabularView-->Labels;
+      TabularView-->LinkedPullRequest;
+      TabularView-->Repository;
+      StatusView-->GroupedByStatus;
+      SprintView-->GroupedBySprint;
+      LinkedAssessmentView-->GroupedByLinkedAssessment;
 ```
 
 ## Branching Strategy
