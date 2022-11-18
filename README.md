@@ -2,10 +2,10 @@
 Will be consisting of all the information that is needed to do project 1 to 5
 
 ## Repositories
--> Repository for Agile and Scrum implentation project 
--> Repository for API Development project 
--> Repository for Patterns and Standards project 
--> Repository for Testing and RPA project
+-> Repository for Agile and Scrum implentation project \
+-> Repository for API Development project \
+-> Repository for Patterns and Standards project \
+-> Repository for Testing and RPA project \
 -> Repository for Reporting and Monitoring project
 
 ## Branching Strategy
