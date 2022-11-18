@@ -11,11 +11,11 @@ Will be consisting of all the information that is needed to do project 1 to 5
 ## Diagram explaining how the project will be broken down
 ```mermaid
 graph TB;
-      Semester-->CMPG-323-Overview---35551178;
-      POE-->CMPG-323-Project-2--35551178;
-      POE-->CMPG-323-Project-3--35551178;
-      POE-->CMPG-323-Project-4--35551178;
-      POE-->CMPG-323-Project-5--35551178;
+      Semester--> CMPG-323-Overview---35551178;
+      POE--> CMPG-323-Project-2--35551178;
+      POE--> CMPG-323-Project-3--35551178;
+      POE--> CMPG-323-Project-4--35551178;
+      POE--> CMPG-323-Project-5--35551178;
 ```
 
 ## Branching Strategy
