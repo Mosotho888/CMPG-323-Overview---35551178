@@ -11,11 +11,17 @@ Will be consisting of all the information that is needed to do project 1 to 5
 ## Diagram explaining how the project will be broken down
 ```mermaid
 graph TB;
-      Semester-->Project1;
-      Semester-->Project2;
-      Semester-->Project3;
-      Semester-->Project4;
-      Semester-->Project5;
+      Semester-->Repositories;
+      Repositories-->Project1;
+      Repositories-->Project2;
+      Repositories-->Project3;
+      Repositories-->Project4;
+      Repositories-->Project5;
+      POE-->Project1;
+      POE-->Project2;
+      POE-->Project3;
+      POE-->Project4;
+      POE-->Project5;
       Project1-->Code;
       Project1-->Issues;
       Project1-->Projects;
@@ -29,6 +35,7 @@ graph TB;
       TabularView-->PopulateTabularView;
       TabularView-->LinkedPullRequest;
       TabularView-->Repository;
+      Repository-->Repositories;
       Milestones-->PopulateTabularView;
       Labels-->PopulateTabularView;
       StatusView-->GroupedByStatus;
