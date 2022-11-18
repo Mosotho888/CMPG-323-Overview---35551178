@@ -25,6 +25,8 @@ graph TB;
       Project1-->Code;
       Project1-->Issues;
       Project1-->Projects;
+      Code-->LICENSE;
+      Code-->README.md;
       Issues-->Labels;
       Issues-->Milestones;
       Projects-->TabularView;
